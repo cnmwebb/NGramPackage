@@ -2,6 +2,10 @@
 
 ### Features ###
 -------------------------------
+Searches Google Book ngram dataset for words that begin with the letter "a"
+Outputs a dataframe of the frequency of searched word
+Outputs what year the word is used most frequently
+Outputs the number of books that use the ngram
 
 
 ### References ###
