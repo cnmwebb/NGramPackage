@@ -1,0 +1,2 @@
+setwed("./ngramSearchPackage")
+document()
